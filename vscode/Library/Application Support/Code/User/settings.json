@@ -1,0 +1,77 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.lineHeight": 36,
+    "editor.renderIndentGuides": false,
+    "css.completion.triggerPropertyValueCompletion": false,
+    "editor.rulers": [
+        100
+    ],
+    "files.associations": {
+        "*.ejson": "json",
+        "*.html.eex": "html-eex",
+        "*.html.leex": "html-eex",
+        "*.html.heex": "html-eex"
+    },
+    "emmet.includeLanguages": {
+        "html-eex": "html",
+        "phoenix-heex": "html"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.editor.enablePreview": false,
+    "files.trimTrailingWhitespace": true,
+    "yaml.schemas": {
+        "file:///Users/mfich/.vscode/extensions/atlassian.atlascode-2.8.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.bitbucket.statusbar.enabled": false,
+    "atlascode.bitbucket.contextMenus.enabled": false,
+    "atlascode.bitbucket.issues.explorerEnabled": false,
+    "atlascode.bitbucket.pipelines.explorerEnabled": false,
+    "atlascode.bitbucket.explorer.enabled": false,
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "atlascode.bitbucket.enabled": false,
+    "http.proxyStrictSSL": false,
+    "atlascode.jira.todoIssues.enabled": false,
+    "extensions.ignoreRecommendations": false,
+    "eslint.packageManager": "yarn",
+    "timeline.excludeSources": [],
+    "editor.formatOnSave": true,
+    "vsicons.associations.files": [
+        {
+            "icon": "html",
+            "extensions": [
+                ".html.eex",
+                ".html.leex"
+            ],
+            "format": "svg"
+        }
+    ],
+    "eslint.format.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "aws.telemetry": false,
+    "elixirLS.suggestSpecs": false,
+    "[elixir]": {
+        "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    },
+    "atlascode.jira.enabled": false,
+    "git.autofetch": true,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "redhat.telemetry.enabled": false,
+    "git.confirmSync": false,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.mac": "/Users/mfich/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+        "vscode-kubernetes.helm-path.mac": "/Users/mfich/.vs-kubernetes/tools/helm/darwin-amd64/helm"
+    }
+}
